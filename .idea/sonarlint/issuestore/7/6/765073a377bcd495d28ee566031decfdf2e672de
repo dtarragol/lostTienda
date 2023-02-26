@@ -1,0 +1,19 @@
+
+J
+java:S3740#"/Provide the parametrized type for this generic.(«ƒĞıÿÿÿÿ
+Q
+java:S3740H"/Provide the parametrized type for this generic.(«ƒĞıÿÿÿÿ8ÕİİëÓ0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÃŒ ­
+H
+java:S1135!"2Complete the task associated to this TODO comment.(…ïœ†
+e
+java:S2133:"CRemove this object instantiation and use "Ventana01.class" instead.(î—Ñòÿÿÿÿÿ8ÑŞ×Ø0
+U	java:S106B"9Replace this use of System.out or System.err by a logger.(Úô×8“ÑŞ×Ø0
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ôš­×Ø0
+K
+java:S1128".Remove this unused import 'javafx.scene.Node'.(ÑÖ¬ï8ôš­×Ø0
+Y
+java:S1128"7Remove this unused import 'javafx.scene.control.Label'.(ö²­ÿÿÿÿÿ8õš­×Ø0
+X
+java:S1128";Remove this unused import 'javafx.scene.control.TextField'.(¨¢¤¶8õš­×Ø0

@@ -1,0 +1,17 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ï‡Î£
+^
+java:S2133"CRemove this object instantiation and use "Ventana01.class" instead.(î—Ñòÿÿÿÿÿ
+8
+java:S1128"#Remove this unused import 'Modelo'.(âˆ»x
+W
+java:S1128"ARemove this unused import 'javafx.scene.control.TextInputDialog'.(œ€šğ
+I
+java:S1128
+"4Remove this unused import 'javafx.stage.StageStyle'.(¶©2
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+J
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ
+I
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ

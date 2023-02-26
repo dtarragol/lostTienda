@@ -1,0 +1,30 @@
+
+h
+java:S1192"RDefine a constant instead of duplicating this literal "hibernate.cfg.xml" 8 times.(¬­Ð†
+b
+java:S1192I"LDefine a constant instead of duplicating this literal "from Pedido" 3 times.(íŸÝ£
+e
+java:S1192J"ODefine a constant instead of duplicating this literal "from Articulos" 3 times.(ß„“ï
+e
+java:S1192H"JDefine a constant instead of duplicating this literal "Empezando" 3 times.(˜„š“ÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ì«£œ
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ä®¸²øÿÿÿÿ
+M	java:S106 "9Replace this use of System.out or System.err by a logger.(â›˜
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(ªæñ²
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(˜„š“ÿÿÿÿÿ
+S	java:S106L"9Replace this use of System.out or System.err by a logger.(óÜ´ñýÿÿÿÿ
+S	java:S106l"9Replace this use of System.out or System.err by a logger.(Š„›Èýÿÿÿÿ
+c	java:S100w"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÝž•
+S	java:S106"9Replace this use of System.out or System.err by a logger.(˜„š“ÿÿÿÿÿ
+T	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(óÜ´ñýÿÿÿÿ
+T	java:S106“"9Replace this use of System.out or System.err by a logger.(ùý‹µýÿÿÿÿ
+T	java:S106§"9Replace this use of System.out or System.err by a logger.(˜„š“ÿÿÿÿÿ
+T	java:S106«"9Replace this use of System.out or System.err by a logger.(óÜ´ñýÿÿÿÿ
+T	java:S106Ë"9Replace this use of System.out or System.err by a logger.(ìÓŒùúÿÿÿÿ
+N
+java:S1128"3Remove this unused import 'Controlador.Controller'.(˜¶†çþÿÿÿÿ
+Q
+java:S1128";Remove this unused import 'javafx.scene.control.TextField'.(¨¢¤¶
+I
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ

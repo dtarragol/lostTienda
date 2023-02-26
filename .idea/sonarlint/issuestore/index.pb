@@ -1,0 +1,35 @@
+
+8
+Lost.iml,a/1/a16f34b8bf17c3eaa59bf3f3255a553b542b0e6e
+O
+src/Controlador/Test_jUnit.java,3/e/3ef4ed2be206241d97da7ace74d74f4c1b6e19b9
+G
+src/Modelo/Entidad.java,0/d/0d6e0f2989b7e80ae80cb998ef6d8d5e0714b8dd
+U
+%src/Vista/VentanaMostrarClientes.fxml,f/a/fa291b4486371132a58cf62cb7ee771a345cbc3f
+O
+src/Modelo/ClientesPremium.java,d/8/d81be7a8b103418b742543794667aa999d3edf8f
+P
+ src/Modelo/ClientesEstandar.java,c/e/ce62077d4a7b977942408be6b086fed460cc2306
+T
+$src/Vista/VentanaMostrarPedidos.fxml,f/0/f0eae285857e5647e8603e66ea37cf7283809d80
+I
+src/Modelo/Articulos.java,6/d/6d9fb6f9ccb240c62dd7f3630c5b061b017d757b
+E
+src/hibernate.cfg.xml,5/2/524fbabb9c34b348becff5425aeeaced8e15058f
+I
+src/Controlador/Main.java,9/e/9ef65654c9a38301ef3963b8ee3d80931df32e58
+V
+&src/Vista/VentanaMostrarArticulos.java,7/6/765073a377bcd495d28ee566031decfdf2e672de
+U
+%src/Vista/VentanaMostrarClientes.java,0/2/02f89c2a55412bd2b7bcca7bc44164acc2a722a8
+V
+&src/Vista/VentanaMostrarArticulos.fxml,8/5/851a9fc527d15d6ec30b6e0a9550dc5ada7e9bf5
+F
+src/Modelo/Pedido.java,7/9/7945660bd746717d7563e2fd8ea6b7e93cd469e5
+T
+$src/Vista/VentanaEliminarPedido.fxml,b/0/b0d5c092dfb11aaba0a843ad4491961f3414ee5d
+G
+src/ORM/OrmCliente.java,b/c/bcd554655381f4018fa7ace5d6f997f860ac8665
+G
+src/ORM/OrmPedidos.java,4/0/4092e3624281e23971d9cfee04038017ca044c93

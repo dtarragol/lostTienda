@@ -1,0 +1,11 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬¹·½ùÿÿÿÿ8®ÁÇŞÒ0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(àÄ€ü
+V
+java:S1854#"@Remove this useless assignment to local variable "copiaCliente".(Éîß
+\
+java:S1161!":Add the "@Override" annotation above this method signature(ƒ¨Ãøÿÿÿÿ8·ÁÇŞÒ0
+G
+java:S1481#"1Remove this unused "copiaCliente" local variable.(Éîß
+V
+java:S3400*"9Remove this method and declare a constant for this value.(£ùÂİ8¹ÁÇŞÒ0
